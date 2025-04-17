@@ -1,0 +1,12 @@
+.navigation {
+  width: 1000px;
+  padding: 20px 0;
+}
+
+.navigation-light {
+  background-color: lightyellow;
+}
+
+.navigation-dark {
+  background-color: darkgrey;
+}

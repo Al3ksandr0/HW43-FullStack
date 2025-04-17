@@ -1,0 +1,27 @@
+.ant-list-item {
+    transition: background-color 0.3s ease;
+}
+
+.item-done {
+    background-color: #26ff63;
+}
+
+.item-todo {
+    background-color: #ffbc2b;
+}
+
+.item-hover-done {
+    background-color: #a6ff58 !important;
+}
+
+.item-hover-todo {
+    background-color: #ffc964 !important;
+}
+
+.item-hover-delete {
+    background-color: #ff4b3a !important;
+}
+
+.form-select {
+    margin: 1rem 0 !important;
+}
